@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/new/prefix1">
+        <file>13 Play.png</file>
+        <file>35 Close_3.png</file>
+    </qresource>
+</RCC>
